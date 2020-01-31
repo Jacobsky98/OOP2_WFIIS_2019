@@ -1,0 +1,5 @@
+kot,cat;
+ptak,bird;
+samolot,plane;
+sowa,owl;
+dog,pies;
